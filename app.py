@@ -2,9 +2,9 @@ def addition(a, b):
     """Returns the sum of a and b."""
     return a + b
 
-def subtraction(a, b):
+def subtraction(a, b, c):
     """Returns the difference of a and b."""
-    return a - b
+    return a - b - c
 
 def division(a, b):
     """Returns the quotient of a and b."""
